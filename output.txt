@@ -1,0 +1,21 @@
+Contest id 101020:
+--Handle Omarmmali solved:
+----Good Coins
+----Playing With Strings
+----Paper Game
+----Window
+----Cutie Pie
+----The Best Strategy
+----Rectangles
+--Handle joudkh solved:
+----Napoléon
+----Rectangles
+----Good Coins
+----Playing With Strings
+----Window
+----Clash Of Snakes
+----Paper Game
+----Cutie Pie
+----Sequences
+----The Best Strategy
+----Weekend
